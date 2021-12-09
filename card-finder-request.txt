@@ -1,0 +1,3 @@
+https://api.bestbuy.com/v1/products(modelNumber=9001G1332530000900-1G133-2518-000900-1G133-2518-000)?apiKey=<INSERT_KEY>&sort=condition.asc&show=condition,description,details.name,inStoreAvailability,manufacturer,onlineAvailability,onlineAvailabilityText,onSale,salePrice,sku&format=json
+
+Card to look for: 9001G1332530000
